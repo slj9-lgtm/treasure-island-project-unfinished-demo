@@ -8,5 +8,8 @@ In this unfinished demo, you'll find:
 
 The goal of this project was to experiment with narrative structure and decision-based storytelling.
 
+![View example code](screenshot1.png)
+![View example code](screenshot2.png)
+
 To run the program:
 python treasure-island-project.py
